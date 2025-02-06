@@ -1,0 +1,7 @@
+.disabled {
+  border: 1px solid black;
+  background-color: grey;
+  color: white;
+  padding: 15px;
+  cursor: not-allowed;
+}
